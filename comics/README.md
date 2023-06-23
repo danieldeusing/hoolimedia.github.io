@@ -1,4 +1,4 @@
-1) Scale down image to height 1080
+1) Scale down image to height 1240
 2) Change filetype to jpg
 3) Store original png in original folder
 4) Scale down same image to size 400 x 566
